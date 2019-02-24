@@ -1,0 +1,58 @@
+﻿[
+	{
+		"id":   "Valve_Cover_123-701_0_Parts-1",
+		"title":"right valve",
+		"text": "same as on the left side",
+		"date": "15.1.2012",
+		"user": "Nils Michaelis",
+		"link": "http://de.wikipedia.org/",
+		"posX": "15",
+		"posY": "0",
+		"posZ": "0.5",
+		"dirX": "1.0",
+		"dirY": "0",
+		"dirZ": "0"
+	},
+	{
+		"id":   "Valve_Cover_123-701_0_Parts-1",
+		"title":"right valve - screw hole",
+		"text": "screws go in here",
+		"date": "15.1.2012",
+		"user": "Nils Michaelis",
+		"link": "http://de.wikipedia.org/",
+		"posX": "14.5",
+		"posY": "1.5",
+		"posZ": "4",
+		"dirX": "1.0",
+		"dirY": "0",
+		"dirZ": "0"
+	},
+	{
+		"id":   "2_Cylinder_Engine-1-4-1-1-1",
+		"title":"Cylinder",
+		"text": "right Cylinder",
+		"date": "05.04.2012",
+		"user": "Nils Michaelis",
+		"link": "http://en.wikipedia.org/wiki/Demolition",
+		"posX": "9",
+		"posY": "0",
+		"posZ": "0.5",
+		"dirX": "-1.0",
+		"dirY": "0.2",
+		"dirZ": "0"
+	},
+	{
+		"id":   "obenRechts",
+		"title":"custom title",
+		"text": "some costom annotations. some costom annotations. some costom annotations. some costom annotations. some costom annotations. some costom annotations. ",
+		"date": "05.04.2012",
+		"user": "Nils Michaelis",
+		"link": "http://en.wikipedia.org/wiki/Demolition",
+		"posX": "1",
+		"posY": "1",
+		"posZ": "1.5",
+		"dirX": "-1.0",
+		"dirY": "0.2",
+		"dirZ": "0"
+	}
+]

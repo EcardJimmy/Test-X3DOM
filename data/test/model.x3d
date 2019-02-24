@@ -1,0 +1,55 @@
+<X3D xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' profile='Full' version='3.0' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.0.xsd'>
+  <Scene>
+
+	<Transform translation="0 0 0" id='untenTransform' >
+		<Shape id="unten">
+			<Appearance>
+				<Material id="x3dBox_Mat" diffuseColor='0 2 0' specularColor='.2 .2 .2' ></Material>
+			</Appearance>
+			<Box></Box>
+		</Shape>
+	</Transform>
+	<Transform translation="0 2 0">
+
+		<Transform translation="-2 0 0" id="mitteLinksTrans">
+			<Shape id="mitteLinks">
+				<Appearance>
+					<Material id="x3dGroupBox1_Mat" diffuseColor='0 2 0' specularColor='.2 .2 .2' ></Material>
+				</Appearance>
+				<Box id='x3dGroupBox1'></Box>
+			</Shape>
+		</Transform>
+
+		<Shape id="mitteRechts">
+			<Appearance>
+				<Material id="x3dGroupBox2_Mat" diffuseColor='0 2 0' specularColor='.2 .2 .2' ></Material>
+			</Appearance>
+			<Box id='x3dGroupBox2'  ></Box>
+		</Shape>
+		<Transform translation="0 2 0" id="obenTrans">
+			<Transform translation="-2 0 0" id="obenLinksTrans">
+				<Shape id="obenLinks">
+					<Appearance>
+						<Material id="x3dSubGroupBox1_Mat" diffuseColor='0 2 0' specularColor='.2 .2 .2' ></Material>
+					</Appearance>
+					<Box id='x3dSubGroupBox1'  ></Box>
+				</Shape>
+			</Transform>
+			<Shape id="obenMitte">
+				<Appearance>
+					<Material id="x3dSubGroupBox2_Mat" diffuseColor='0 2 0' specularColor='.2 .2 .2' ></Material>
+				</Appearance>
+				<Box id='x3dSubGroupBox2' ></Box>
+			</Shape>
+			<Transform translation="2 0 0" id="obenRechtsTrans">
+				<Shape id="obenRechts">
+					<Appearance>
+						<Material id="x3dSubGroupBox3_Mat" diffuseColor='0 2 0' specularColor='.2 .2 .2' ></Material>
+					</Appearance>
+					<Box id='x3dSubGroupBox3' ></Box>
+				</Shape>
+			</Transform>
+		</Transform>
+	</Transform>
+  </Scene>
+</X3D>

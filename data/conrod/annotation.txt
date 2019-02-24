@@ -1,0 +1,44 @@
+﻿[
+	{
+		"id":   "end_2_SOLIDS-1",
+		"title":"end",
+		"text": "one of the ends",
+		"date": "15.1.2012",
+		"user": "Nils Michaelis",
+		"link": "http://de.wikipedia.org/",
+		"posX": "-16.61370506435499",
+		"posY": "363",
+		"posZ": "-0.5",
+		"dirX": "1.0",
+		"dirY": "0",
+		"dirZ": "0"
+	},
+	{
+		"id":   "crank-1-10-1-1-1",
+		"title":"Crank",
+		"text": "absolutely necessary",
+		"date": "05.04.2012",
+		"user": "Nils Michaelis",
+		"link": "http://en.wikipedia.org/",
+		"posX": "-21.3861",
+		"posY": "180.0196078",
+		"posZ": "-56.604920",
+		"dirX": "-1.0",
+		"dirY": "0.2",
+		"dirZ": "0"
+	},
+	{
+		"id":   "end_1_SOLIDS-1",
+		"title":"custom title",
+		"text": "some costom annotations. some costom annotations. some costom annotations. some costom annotations. some costom annotations. some costom annotations. ",
+		"date": "05.04.2012",
+		"user": "Nils Michaelis",
+		"link": "http://en.wikipedia.org/",
+		"posX": "-5.279234",
+		"posY": "-28.7647",
+		"posZ": "17.7651",
+		"dirX": "-1.0",
+		"dirY": "0.2",
+		"dirZ": "0"
+	}
+]
